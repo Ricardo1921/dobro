@@ -1,0 +1,10 @@
+C:\Users\noddy\source\repos\Dobro\Dobro\bin\Debug\Dobro.exe.config
+C:\Users\noddy\source\repos\Dobro\Dobro\bin\Debug\Dobro.exe
+C:\Users\noddy\source\repos\Dobro\Dobro\bin\Debug\Dobro.pdb
+C:\Users\noddy\source\repos\Dobro\Dobro\obj\Debug\Dobro.csprojAssemblyReference.cache
+C:\Users\noddy\source\repos\Dobro\Dobro\obj\Debug\Dobro.Form1.resources
+C:\Users\noddy\source\repos\Dobro\Dobro\obj\Debug\Dobro.Properties.Resources.resources
+C:\Users\noddy\source\repos\Dobro\Dobro\obj\Debug\Dobro.csproj.GenerateResource.cache
+C:\Users\noddy\source\repos\Dobro\Dobro\obj\Debug\Dobro.csproj.CoreCompileInputs.cache
+C:\Users\noddy\source\repos\Dobro\Dobro\obj\Debug\Dobro.exe
+C:\Users\noddy\source\repos\Dobro\Dobro\obj\Debug\Dobro.pdb
